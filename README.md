@@ -28,3 +28,8 @@ This metric is the correlation coefficient, which is unity if the reconstructed 
 Metric #2: Euclidean Distance (RMS error) 
 m2=√((∑▒〖(Xi-Xmean)〗^2 )/N)
 This metric is an RMS error estimate between our current image estimate and the original image. 
+
+Step :
+Run the test.m  file. It will give the image after 1 iteration and 10 iteration. You can also see the image after each iteration.
+
+The output image is also given.
